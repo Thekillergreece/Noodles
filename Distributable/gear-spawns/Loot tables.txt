@@ -1,0 +1,44 @@
+#-----------------
+loottable=BackPack
+#-----------------
+item=cupnoodles w=2
+item=soyramen w=1
+
+#----------------------
+loottable=KitchenDrawer
+#----------------------
+item=cupnoodles w=3
+item=soyramen w=2
+
+#---------------
+loottable=Fridge
+#---------------
+item=cupnoodles w=2
+
+#------------------------
+loottable=KitchenCupboard
+#------------------------
+item=cupnoodles w=5
+item=soyramen w=3
+
+#---------------
+loottable=Locker
+#---------------
+item=soyramen w=1
+
+#---------------
+loottable=LockerLocked
+#---------------
+item=soyramen w=3
+item=cupnoodles w=1
+
+#-------------------------
+loottable=VehicleGloveBox
+#-------------------------
+item=soyramen w=1
+
+#-------------------------
+loottable=CargoFoodC
+#-------------------------
+item=cupnoodles w=2
+item=soyramen w=2

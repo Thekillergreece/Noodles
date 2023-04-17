@@ -1,0 +1,22 @@
+#BUNKER SPAWN POINTS
+
+# Bunker A
+scene=BunkerA
+item=GEAR_SoyRamenCooked p=-0.8193,0.9789,10.8880 r=0.0000,331.1275,0.0000 c=100
+
+# Bunker B
+scene=BunkerB
+item=GEAR_SoyRamenCooked p=-5.4056,1.1881,7.3607 r=0.0000,309.9793,0.0000 c=100
+
+# Bunker C
+scene=BunkerC
+item=GEAR_SoyRamenCooked p=-9.2707,-0.3381,14.0635 r=0.0000,301.7175,0.0000 c=100
+
+# Bunker XL
+scene=BunkerXL
+item=GEAR_SoyRamenCooked p=-0.7385,0.9789,20.2196 r=0.0649,282.4880,359.9000 c=100
+item=GEAR_CupNoodlesOpen p=-1.0515,0.9789,21.4654 r=0.0649,201.8557,359.9000 c=100
+item=GEAR_CupNoodles p=5.7086,1.6582,22.4388 r=-0.0000,16.4918,-0.0000 c=75
+item=GEAR_SoyRamen p=5.7081,1.6582,22.9778 r=-0.0000,55.2706,-0.0000 c=75
+item=GEAR_SoyRamen p=5.5132,1.6582,22.6968 r=-0.0000,132.0515,-0.0000 c=75
+

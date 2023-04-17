@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Noodles
+  m_EditorClassIdentifier: 
+  m_GroupName: Noodles
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 44324918643810c46a5eae3296fb5175
+  m_SerializeEntries:
+  - m_GUID: 43f497c7a0b21a24ea7f7955005ca95e
+    m_Address: GEAR_CupNoodles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1aca410b5c4162b4d94cd6525edded36
+    m_Address: GEAR_CupNoodlesOpen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da93afc21c720b04aa76d5362b421330
+    m_Address: GEAR_SoyRamen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92514200fee51a34990bbcc1b48e44ad
+    m_Address: GEAR_SoyRamenCooked
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d6dfd5029299af49a028aef21d36271
+    m_Address: ico_GearItem__CupNoodles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13f22692d585eb74eb81804694411d63
+    m_Address: ico_GearItem__CupNoodlesOpen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9a0e8a06fb124342b3fa4fa1b3f6033
+    m_Address: ico_GearItem__SoyRamen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f629f31dcfd9e964fbb631598e5bbfaa
+    m_Address: ico_GearItem__SoyRamenCooked
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 52563fa0349ba1247b09f056f29cc069, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d097e991b243be54bb618707c65b5248, type: 2}
+    - {fileID: 11400000, guid: e7ef816ec8a9ade47bdd9c2916ca91a7, type: 2}

@@ -1,0 +1,27 @@
+#PLEASANT VALLEY SPAWN POINTS
+
+# Pleasant Valley
+scene=communityhalla
+item=GEAR_SoyRamenCooked p=-3.9032,1.1318,4.3254 r=0.0000,319.0870,0.0000 c=85
+item=GEAR_SoyRamen p=-6.8106,0.4494,6.1482 r=0.0000,303.2086,0.0000 c=50
+item=GEAR_SoyRamen p=-6.6287,0.4454,6.1423 r=-0.0000,0.2089,-0.0000 c=25
+
+scene=farmhousea
+item=GEAR_SoyRamen p=0.1740,0.2304,8.9511 r=-0.0000,9.4632,-0.0000 c=85
+item=GEAR_CupNoodles p=0.3468,0.2304,8.9300 r=359.7854,340.6431,356.2567 c=85
+item=GEAR_SoyRamenCooked p=-1.5760,0.8872,5.0324 r=0.0000,341.7713,0.0000 c=85
+item=GEAR_CupNoodles p=0.4542,0.2304,8.9309 r=0.0000,355.1048,0.0000 c=25
+
+scene=ruralstorea
+item=GEAR_SoyRamen p=-2.9324,0.4290,-2.4688 r=0.0000,232.2810,0.0000 c=85
+item=GEAR_SoyRamen p=-2.7743,0.4290,-2.4505 r=0.0000,267.0271,0.0000 c=75
+item=GEAR_CupNoodles p=-2.9610,0.4290,-1.7364 r=0.0000,312.2377,0.0000 c=85
+item=GEAR_CupNoodles p=-2.8408,0.4290,-1.7245 r=0.0000,284.8571,0.0000 c=75
+
+scene=radiocontrolhut
+item=GEAR_SoyRamenCooked p=1.4135,1.1313,3.7582 r=-0.0000,81.4032,-0.0000 c=50
+item=GEAR_SoyRamen p=1.4111,1.5981,3.7485 r=0.0000,315.2867,0.0000 c=25
+
+scene=HouseBasementPV
+item=GEAR_SoyRamen p=-1.0754,0.9616,-2.1307 r=-0.0000,141.5299,-0.0000 c=50
+item=GEAR_CupNoodles p=-0.9043,0.9616,-2.0863 r=-0.0000,143.5932,-0.0000 c=50

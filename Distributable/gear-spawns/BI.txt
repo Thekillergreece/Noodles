@@ -1,0 +1,16 @@
+#BLEAK INLET SPAWN POINTS
+
+# Bleak Inlet
+scene=CanneryRegion
+# Tower
+item=GEAR_SoyRamenCooked p=299.7203,240.1778,347.9039 r=-0.0000,40.9907,-0.0000 c=50
+item=GEAR_SoyRamen p=299.5207,240.1778,347.9760 r=0.0000,333.3349,0.0000 c=25
+
+scene=CanneryTrailerA
+item=GEAR_CupNoodles p=1.2631,0.6482,-1.4037 r=0.0000,239.0359,0.0000 c=50
+
+scene=MaintenanceShedB
+item=GEAR_SoyRamenCooked p=-11.0650,1.1234,-23.3157 r=0.0000,348.2230,0.0000 c=75
+item=GEAR_SoyRamen p=-11.0320,1.1234,-23.1201 r=0.0000,234.4114,0.0000 c=75
+item=GEAR_CupNoodles p=-7.7060,1.3325,-25.3285 r=-0.0000,15.1066,-0.0000 c=50
+item=GEAR_CupNoodles p=-7.6309,1.3325,-25.2590 r=0.0000,318.1991,0.0000 c=50

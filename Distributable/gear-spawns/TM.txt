@@ -1,7 +1,0 @@
-#TIMBERWOLF MOUNTAIN SPAWN POINTS
-
-#Timberwolf Mountain - Lodge
-scene=CrashMountainRegion
-item=GEAR_CupNoodles p=886.4094,161.6427,341.6349 r=0.0000,311.0376,0.0000 c=50
-item=GEAR_CupNoodles p=886.5817,161.6427,341.6338 r=0.0000,289.1030,0.0000 c=15
-

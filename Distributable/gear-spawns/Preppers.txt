@@ -1,0 +1,22 @@
+#PREPPER CACHES LOOT SPAWNS
+
+scene=PrepperCacheA
+item=GEAR_SoyRamen p=1.8131,0.9835,1.0811 r=0.0000,358.3279,0.0000 c=85
+item=GEAR_SoyRamen p=1.4023,0.9835,1.3334 r=-0.0000,51.6274,-0.0000 c=85
+
+scene=PrepperCacheB
+item=GEAR_SoyRamenCooked p=0.5492,0.9849,-1.3310 r=0.0000,281.4779,0.0000 c=100
+
+scene=PrepperCacheC
+item=GEAR_SoyRamen p=1.3389,1.0086,1.8328 r=0.0000,315.0741,0.0000 c=85
+item=GEAR_SoyRamen p=1.4729,1.0086,1.7399 r=-0.0000,8.5471,-0.0000 c=85
+
+scene=PrepperCacheD
+item=GEAR_SoyRamen p=-0.4390,1.4472,1.5920 r=357.3477,55.9534,2.2181 c=85
+item=GEAR_SoyRamenCooked p=-2.5443,1.1392,1.6928 r=-0.0000,44.6619,-0.0000 c=85
+
+scene=PrepperCacheE
+item=GEAR_SoyRamenCooked p=2.6684,1.0269,1.5480 r=-0.0000,105.1499,-0.0000 c=85
+
+scene=PrepperCacheF
+item=GEAR_SoyRamen p=1.1427,0.0697,3.6532 r=-0.0000,50.1466,-0.0000 c=85

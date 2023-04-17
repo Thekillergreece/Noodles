@@ -23,7 +23,7 @@ If you are considering to download and install this noodles food pack, I strongl
 ---
 - If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe
 - Install the latest version of ModComponent and its dependencies.
-- Download latest version of NoodlesByTKG from the releases page.
+- Download latest version of Noodles from the releases page.
 - Move NoodlesByTKG.modcomponent to your mods folder.
 - (OPTIONAL) Download latest version of Foods by 'Calorie Waltz' from their releases page as well as FoodPackByTKG.
 - (OPTIONAL) Move the mod's contents to mods folder.

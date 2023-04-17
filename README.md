@@ -14,6 +14,7 @@ Currently, the mod is supported by the following languages; English, Japanese an
 
 ### Introduction
 ---
+![noodles](https://user-images.githubusercontent.com/95387832/232430406-9c49caef-faf8-4369-8e99-590fe06ca7e8.jpg)
 Introduces noodles and soy ramen food items into the game.
 
 If you are considering to download and install this noodles food pack, I strongly recommend you download and install my other food pack mod and Waltz's food pack as well.
